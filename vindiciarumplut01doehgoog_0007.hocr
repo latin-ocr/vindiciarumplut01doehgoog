@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciarumplut01doehgoog_0007.png"; bbox 0 0 3534 5392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 1599 1114 1707">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 1599 1114 1707">
+     <span class='ocr_line' id='line_1_1' title="bbox 488 1599 1114 1707; baseline -0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 488 1599 765 1707; x_wconf 68' lang='lat' dir='ltr'><strong>mono</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 822 1602 1114 1704; x_wconf 74' lang='lat' dir='ltr'>SINTENI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 388 1898 1210 2064">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 388 1898 1210 2064">
+     <span class='ocr_line' id='line_1_2' title="bbox 388 1898 1210 2064; baseline -0.004 -62"><span class='ocrx_word' id='word_1_3' title='bbox 388 1902 811 2064; x_wconf 78' lang='lat' dir='ltr'><strong>FRIDERICO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 866 1898 1210 2004; x_wconf 80' lang='lat' dir='ltr'><strong>FRANKIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 407 2212 1193 2316">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 407 2212 1193 2316">
+     <span class='ocr_line' id='line_1_3' title="bbox 407 2212 1193 2316; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 407 2213 671 2315; x_wconf 78' lang='grc' dir='ltr'><strong>ΟΤΤΟΝΙ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 717 2212 1193 2316; x_wconf 81' lang='lat' dir='ltr'>KREUSSLERO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 651 2559 809 2668">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 651 2559 809 2668">
+     <span class='ocr_line' id='line_1_4' title="bbox 651 2559 809 2668; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 651 2657 659 2668; x_wconf 75' lang='grc'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 777 2559 809 2630; x_wconf 70' lang='lat'><strong>8⁰</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1772 5392">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1772 5392">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1772 5392; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1772 5392; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
